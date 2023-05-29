@@ -1,0 +1,29 @@
+{
+  "name": "crudapp",
+  "version": "1.0.0",
+  "description": "learning node js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faraz-stack/nodejs-crud.git"
+  },
+  "keywords": [
+    "nodejs",
+    "crud",
+    "architecture"
+  ],
+  "author": "faraz naeem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faraz-stack/nodejs-crud/issues"
+  },
+  "homepage": "https://github.com/faraz-stack/nodejs-crud#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
